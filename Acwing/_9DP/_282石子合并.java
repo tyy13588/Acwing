@@ -1,4 +1,4 @@
-package Acwing.DP;
+package Acwing._9DP;
 
 import java.util.Scanner;
 
